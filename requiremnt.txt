@@ -1,0 +1,7 @@
+beautifulsoup4 
+requests 
+pandas 
+nltk 
+textstat 
+openpyxl
+python-dotenv
